@@ -25,7 +25,9 @@ Dataset  `.xlsx` memiliki struktur kolom sebagai berikut:
 | `text` | String | Teks komentar mentah. |
 | `sentimen` | String | Label sentimen: `Positif`, `Negatif`, atau `Netral`. |
 
-## Aturan Penggunaan & Lisensi
+## Lisensi
 
 Dataset ini disediakan secara gratis untuk memajukan ekosistem riset dan teknologi di Indonesia. Namun, penggunaan dataset ini tunduk pada aturan privasi,
 Jika Anda menggunakan dataset ini dalam penelitian atau publikasi Anda, mohon berikan sitasi sebagai bentuk apresiasi:
+
+Copyright (c) 2026 wansobriamin
